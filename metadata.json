@@ -1,0 +1,6 @@
+{
+  "name": "ExamHall VR",
+  "description": "Interactive 3D examination hall simulation for Work System Design Laboratory, modeling environmental stress factors, invigilator monitoring, peer activity, and human factors implications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
